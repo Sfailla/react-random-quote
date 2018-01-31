@@ -1,0 +1,12 @@
+.main__title {
+    display: inline-block;
+    background-image: linear-gradient(to right, #cc2b5e, #753a88);
+    -webkit-background-clip: text;
+    color: transparent;
+    margin-top: 5rem;
+    white-space: nowrap;
+
+    position: absolute;
+    right: 50%;
+    transform: translateX(50%);
+}
